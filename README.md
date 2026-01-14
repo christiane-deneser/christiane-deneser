@@ -1,68 +1,100 @@
 # Hi, I’m Christiane (she/her) 👋 💖 
-**Accessibility Specialist · Neuro-Inclusive UX · ex-Frontend Dev @ Ableton**
+**Senior Frontend Developer · Accessibility Specialist · Design Systems · ex-Ableton**
 
-I help teams build **accessible, human-centered digital products** — with a special focus on:
+I help teams build **accessible, maintainable, and user-centered web interfaces** — combining:
 
-- **Web accessibility (WCAG 2.2 / EN 301 549 / EAA)**
-- **Neuro-inclusive, low-friction user experiences**
-- **Bridging design, development, and process (Scrum, product, design systems)**
+- **Frontend engineering (HTML, CSS/SCSS, JavaScript, Web Components)**
+- **Accessibility leadership (WCAG, EN 301 549, BITV)**
+- **Design systems & scalable architecture**
+- **Agile, evidence-based product thinking**
 
-I have ~10 years of experience as a frontend developer with a strong accessibility focus.  
-Today, I work at the intersection of **accessibility leadership, inclusive design, and AI-assisted workflows**.
+I have 10+ years of experience working on long-running, high-traffic, direct-to-consumer platforms, most recently at Ableton, where I shaped 
+frontend architecture, built accessible component systems, and helped to integrate accessibility across design and development workflows.
+
+Today, I work at the intersection of of frontend development, inclusive design, accessibility engineering, and AI-assisted development.
 
 ---
 
 ## 🧭 What I’m focusing on right now
 
 - Building my **`a11y-lab`** on GitHub:
-  - Small, focused **accessible UI components** (buttons, dialogs, navigation…)
-  - Each mapped to **WCAG 2.2 / EN 301 549** criteria  
-  - With clear keyboard behavior, screen reader notes, and developer guidance
-- Developing a personal curriculum:  
-  **“Master of Neuro-Inclusive & AI-Adaptive Experience Design”**  
-  → exploring how AI can *support* accessibility, not replace it
-- Preparing for **IAAP / WAS-style** exams and consolidating my WCAG knowledge
-- Refreshing my public profile (GitHub, LinkedIn, portfolio) so employers can see my **accessibility depth** at a glance
+  - Accessible UI components and custom widgets    
+  - Keyboard & screen reader behavior
+  - WCAG 2.2 / EN 301 549 mapping
+  - Notes for developers & designers
+- Exploring how AI can support frontend developemnt workflows    
+- Preparing for **IAAP WAS** exams and deepening my accessibility expertise  
 
 ---
 
-## 🧩 My accessibility toolbox
+## 🧩 My Professional Toolbox
 
-**Standards & frameworks**
+**Accessibility**
 
-- WCAG **2.1 / 2.2**
-- **EN 301 549**
-- European **Accessibility Act (EAA)** mindset (web, apps, services)
-- BITV & EU public sector requirements
-
-**Testing & review**
-
+- WCAG 2.2, EN 301 549, BITV
 - Manual keyboard testing
-- Screen readers:
-  - NVDA, JAWS (Windows)
-  - VoiceOver (macOS / iOS)
-- Browser dev tools (Chrome / Firefox)
-- Automated tools:
-  - **axe DevTools**
-  - **Accessibility Insights for Web**
-  - Lighthouse, WAVE, plus browser a11y tree inspection
+- Screen readers: VoiceOver, NVDA, JAWS
+- Dynamic behavior: focus management, live regions, state changes
+- Automated testing: axe, Accessibility Insights
 
-**Code & implementation**
+**Frontend Engineering**
 
-- Semantic HTML5, accessible forms, landmarks, structure
-- CSS (focus states, reduced motion, contrast, responsive layouts)
-- ARIA *only when needed* (role, name, state, properties)
-- Design systems, component libraries, and design–dev collaboration
+- Semantic HTML & accessible patterns
+- CSS/SCSS architecture, responsive layouts, reduced motion
+- JavaScript (ES6 and class syntax, modular architectures, selective enhancement)
+- Web Components
+- Django CMS, Twig, Handlebars, Mustache
+- React / Next.js / Vue.js (working knowledge)
 
-**AI-assisted workflows**
+**Design Systems & Architecture**
 
-- GitHub Copilot & modern AI tools to:
-  - suggest accessible patterns
-  - scaffold tests & documentation
-  - support accessibility reviews
-  - generate examples & learning materials
+- Reusable component libraries
+- Documentation, structure
+- Predictable patterns 
+- Scaling components across multiple teams
+
+**AI-assisted workflow**
+
+- GitHub Copilot for scaffolding
+
+**Agile Collaboration**
+
+- Scrum (PSM I, PSPO I)
+- Working in cross-functional teams (product, design, QA, backend)
+- Evidence-based decisions, MVP thinking, value-driven delivery
+- Mentoring, code reviews, RFC processes
 
 ---
+
+## 🧱 How I work as a Frontend Engineer
+
+My engineering approach is grounded in:
+
+- Delivering real value to users and to the business
+- Making thoughtful technical decisions in cross-functional teams
+- Balancing speed, quality, and sustainability
+- Improving long-running product codebases
+
+I care deeply about:
+
+- maintainability
+- performance
+- readability
+- progressive enhancement
+- clean architecture
+- codebases that support teams long-term
+
+I build frontends that are:
+
+- modular
+- predictable
+- accessible
+- easy to extend
+- aligned with product goals and user needs
+
+This mindset comes from years of working on complex, evolving, revenue-critical platforms like Ableton’s e-commerce and marketing environment. 
+
+--- 
 
 ## 🧪 Featured projects & directions
 
@@ -109,9 +141,7 @@ This shaped me profoundly.
 
 It also clarified what I value in my next role:  
 I want to work with **kind, thoughtful people** who communicate openly, support each other, and care about the work *and* the humans doing it.
-
-Accessibility is ultimately about people and how we treat each other — and the best teams understand that.
-
+ 
 ---
 
 ## 📚 Currently learning & exploring
@@ -121,38 +151,13 @@ Accessibility is ultimately about people and how we treat each other — and the
 - Designing **neuro-inclusive interfaces**:
   - Reducing cognitive load
   - Clear paths, gentle pacing, predictable patterns
-- Using **AI to accelerate accessible development**:
-  - Accessibility-flavoured code suggestions
-  - Drafting documentation, checklists, and audit summaries
-  - Experimenting with AI-based learning helpers for teams
-
----
-
-## 🤝 How I like to work
-
-- **Collaborative**: I enjoy pairing with designers, devs, testers, and PMs  
-- **Pragmatic**: Accessibility must fit real-world constraints and workflows  
-- **Educational**: I love turning audit findings into **guides, patterns, and shared practices**  
-- **Systems-thinking**: From one-off fixes to **accessible design systems** and sustainable processes
-
-Past experience includes:
-- Working as a **Frontend Developer & Accessibility Specialist at Ableton**,  
-  contributing to:
-  - accessible components
-  - WCAG / EN 301 549 audit & remediation
-  - better acceptance criteria & Definition of Done for accessibility
+- Using **AI to accelerate development**
 
 ---
 
 ## 🌍 Beyond code
 
-I’m also a **movement artist & visual storyteller** — working with photography, film, and performance.  
-This creative background influences my approach to:
-
-- embodiment in interaction  
-- sensory clarity  
-- visual rhythm & hierarchy  
-- emotional and experiential design  
+I’m also a **movement artist & visual storyteller** — working with photography, film, and performance.   
 
 ---
 
@@ -162,10 +167,4 @@ This creative background influences my approach to:
 - **LinkedIn:** [LinkedIn Christiane Deneser](https://www.linkedin.com/in/christiane-deneser-a262b581/)  
 - **GitHub:** you’re already here 😊  
 
-If you’re interested in:
-- improving accessibility in your product,  
-- building accessible design systems,  
-- or exploring AI-assisted inclusive design,  
-
-feel free to reach out or open an issue/discussion.  
-I’m always happy to connect and share knowledge. 💖
+Whether you’re exploring accessible design systems, frontend architecture, or AI-assisted development, I’m always happy to connect. 💖

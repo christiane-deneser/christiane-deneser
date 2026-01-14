@@ -31,7 +31,7 @@ Today, I work at the intersection of of frontend development, inclusive design, 
 
 **Accessibility**
 
-- WCAG 2.2, EN 301 549, BITV
+- WCAG 2.2, EN 301 549, BITV, WAI-ARIA
 - Manual keyboard testing
 - Screen readers: VoiceOver, NVDA, JAWS
 - Dynamic behavior: focus management, live regions, state changes

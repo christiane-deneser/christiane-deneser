@@ -11,7 +11,7 @@ I help teams build **accessible, maintainable, and user-centered web interfaces*
 I have 10+ years of experience working on long-running, high-traffic, direct-to-consumer platforms, most recently at Ableton, where I shaped 
 frontend architecture, built accessible component systems, and helped to integrate accessibility across design and development workflows.
 
-Today, I work at the intersection of of frontend development, inclusive design, accessibility engineering, and AI-assisted development.
+Today, I work at the intersection of of frontend development, inclusive design, and accessibility engineering.
 
 ---
 
@@ -21,8 +21,7 @@ Today, I work at the intersection of of frontend development, inclusive design, 
   - Accessible UI components and custom widgets    
   - Keyboard & screen reader behavior
   - WCAG 2.2 / EN 301 549 mapping
-  - Notes for developers & designers
-- Exploring how AI can support frontend developemnt workflows    
+  - Notes for developers & designers   
 - Preparing for **IAAP WAS** exams and deepening my accessibility expertise  
 
 ---
@@ -52,10 +51,6 @@ Today, I work at the intersection of of frontend development, inclusive design, 
 - Documentation, structure
 - Predictable patterns 
 - Scaling components across multiple teams
-
-**AI-assisted workflow**
-
-- GitHub Copilot for scaffolding
 
 **Agile Collaboration**
 
@@ -167,4 +162,4 @@ I’m also a **movement artist & visual storyteller** — working with photograp
 - **LinkedIn:** [LinkedIn Christiane Deneser](https://www.linkedin.com/in/christiane-deneser-a262b581/)  
 - **GitHub:** you’re already here 😊  
 
-Whether you’re exploring accessible design systems, frontend architecture, or AI-assisted development, I’m always happy to connect. 💖
+Whether you’re exploring accessible design systems, or frontend architecture, I’m always happy to connect. 💖
